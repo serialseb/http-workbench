@@ -1,0 +1,3 @@
+﻿name: http-workbench
+depends: openwrap anchored content
+depends: openrasta-core
